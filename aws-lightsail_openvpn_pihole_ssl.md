@@ -79,7 +79,7 @@ vi /etc/openvpn/server/server.conf
 ;push "dhcp-option DNS 8.8.8.8"
 ```
 
-## Add a `dhcp-options DNS` line to use the Pi-hole for DNS
+## Add a `dhcp-option` line to use the Pi-hole for DNS
 ```
 push "dhcp-option DNS 10.8.0.1"
 ```
