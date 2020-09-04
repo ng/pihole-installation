@@ -107,7 +107,7 @@ curl -sSL https://install.pi-hole.net | bash
 
 Once the installation has completed make note of the admin password.
 
-* Connect to VPN from your device
+# Connect to VPN from your device
 Install the OpenVPN client on Mac or Android. Import the configuration file that was previously saved.
 
 # Optional
